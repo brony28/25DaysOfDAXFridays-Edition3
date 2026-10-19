@@ -11,3 +11,10 @@
 * Q.11 Customer with the highest customer lifespan. 
 * Q.12 Which customers has placed most orders?
 * Q.13 Top 5 countries with the highest number of customers.
+* Q.14 Which customers placed the highest value of orders (sales) in 1997. 
+* Q.15 Customer with the highest number of orders in one single month. 
+* Q.16 Employee with the highest average order value( in sales)
+* Q.17 Employee with the longest avg processing order time. 
+* Q.18 Which employee has been in the company the longest. 
+* Q.19 Name of all Northwind Managers. 
+* Q.20 Employee that handles most unique customers. 
