@@ -18,3 +18,8 @@
 * Q.18 Which employee has been in the company the longest. 
 * Q.19 Name of all Northwind Managers. 
 * Q.20 Employee that handles most unique customers. 
+* Q.21 Number of suppliers that deliver more product items than average.
+* Q.22 Suppliers with most stocked-out products
+* Q.23 Which supplier delivers the most expensive product ?
+* Q.24 Which supplier has the highest category diversity ?
+* Q.25 Supplier with the highest number of top 5 selling products.
